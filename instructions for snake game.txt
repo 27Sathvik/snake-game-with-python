@@ -1,0 +1,9 @@
+This game is built with python and pygame 
+python docs: https://www.python.org/
+pygame docs: https://www.python.org/
+
+Downlod python from https://www.python.org/downloads/ or using pip , $pip install python3
+Download pygame using pip , $pip install pygame
+
+and run code via:comand line ,$python snake game.py
+or via:python idle
